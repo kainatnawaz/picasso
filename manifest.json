@@ -1,11 +1,11 @@
 {
-    "name": "Picasso",
-    "short_name": "Picasso",
+    "name": "Pycasso",
+    "short_name": "Pycasso",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Flutter Web Application Picasso.",
+    "description": "Web Application Pycasso.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
